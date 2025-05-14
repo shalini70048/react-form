@@ -40,20 +40,6 @@ function App() {
 
 
   return (
-    // <div>
-    //   <form style={{ display: 'flex' }}>
-    //     <label>Name: </label>
-    //     <input type="text" placeholder='Enter the name' onChange={(event) => nameHandler(event.target.value)} />
-    //     <label>Email: </label>
-    //     <input type='email' placeholder='Enter the email' onChange={(event) => emailHandler(event.target.value)} />
-    //     <label>Phone Number: </label>
-    //     <input type="text" placeholder='Enter the number' onChange={(event) => numberHandler(event.target.value)} />
-    //     <label>Address</label>
-    //     <input type='text' placeholder='Enter the address' onChange={(event) => addressHandler(event.target.value)} />
-    //     <button onClick={(event) => submitHandler(event)}>Submit</button>
-
-    //   </form>
-    // </div>
 
     <div>
   <form 
